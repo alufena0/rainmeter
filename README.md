@@ -12,7 +12,7 @@ Both are native x64 DLLs, no .NET, no external dependencies beyond `kernel32.dll
 `PerfMon.dll` is the official Rainmeter plugin (not mine), used in the skin for the process count. Docs: https://docs.rainmeter.net/manual/plugins/deprecated/perfmon/
 
 ## Skin
-`Skins/Processes/Process.ini` shows three rows: processes, services, drivers, all running counts.
+`[Skins/Processes/Process.ini](./Skins/Processes/Process.ini)` shows three rows: processes, services, drivers, all running counts.
 
 ## Installation
 Copy `Plugins/*.dll` to `Rainmeter/Plugins/`, copy `Skins/Processes/` to `Rainmeter/Skins/`, load the skin.
