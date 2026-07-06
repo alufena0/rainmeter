@@ -13,6 +13,7 @@ Both are native x64 DLLs, no .NET, no external dependencies beyond `kernel32.dll
 
 ## Skin
 [Skins/Processes/Process.ini](./Skins/Processes/Process.ini) shows three rows: processes, services, drivers, all running counts.
+<img width="132" height="45" alt="Untitled" src="https://github.com/user-attachments/assets/27377c4f-4128-45e0-82b2-fa861eb39b42" />
 
 ## Installation
 Copy `Plugins/*.dll` to `Rainmeter/Plugins/`, copy `Skins/Processes/` to `Rainmeter/Skins/`, load the skin.
